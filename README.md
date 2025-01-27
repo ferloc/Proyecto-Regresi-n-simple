@@ -14,3 +14,8 @@ encontrar el nivel de felicidad del último reporte del WHR (2022) y el GDP (202
 para los que se cuenta con información. Los datos de niveles de felicidad se descargaron 
 directamente del sitio de internet del [WHR](https://worldhappiness.report/ed/2022/#appendices-and-data),y los datos de GDP se descargaron del sitio de 
 internet de [The World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+La base de datos cuenta con la siguiente información: 
+- “Pais”. Se describe el nombre del país. 
+- “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad. 
+- “GDP”. Un número que describe el producto interno bruto.
+  
