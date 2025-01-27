@@ -22,4 +22,4 @@ La base de datos cuenta con la siguiente información:
 
 - [Reporte en formato HTML](A1.2%641675.htmll)
 - [Reporte en formato ipynb](A1.2%641675.ipynb)
-- [Base de datos](Felicidad y GDP.csv)
+- [Base de datos](Felicidad%y%GDP.csv)
