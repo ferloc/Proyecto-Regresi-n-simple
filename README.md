@@ -19,6 +19,6 @@ La base de datos cuenta con la siguiente información:
 - “GDP”. Un número que describe el producto interno bruto.
   
 
-- [Reporte en formato HTML](A1.2%641675.htmll)
+- [Reporte en formato HTML](A1.2%641675.html)
 - [Reporte en formato ipynb](A1.2%641675.ipynb)
 - [Base de datos](Felicidad%y%GDP.csv)
