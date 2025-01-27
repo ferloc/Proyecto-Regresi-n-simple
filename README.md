@@ -17,6 +17,9 @@ La base de datos cuenta con la siguiente información:
 - “Pais”. Se describe el nombre del país. 
 - “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad. 
 - “GDP”. Un número que describe el producto interno bruto.
+
+
+En este proyecto, realizaremos un análisis de regresión lineal simple, el cual nos permitirá determinar si existe una relación entre el producto interno bruto (GDP) y el nivel de felicidad de los países. 
   
 - [Reporte en formato HTML](A1.2%20641675.html)
 - [Reporte en formato ipynb](A1.2%20641675.ipynb)
