@@ -1,1 +1,1 @@
-# Proyecto-Regresi-n-simple
+# Proyecto-Regresion-simple
